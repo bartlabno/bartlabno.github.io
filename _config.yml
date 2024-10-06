@@ -26,7 +26,7 @@ search: true
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+# theme: minimal-mistakes-jekyll
 remote_theme: bartlabno/bartlabno.github.io
 # Outputting
 permalink: /:categories/:title/
