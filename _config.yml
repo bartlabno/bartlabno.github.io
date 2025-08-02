@@ -2,16 +2,16 @@ url: https://labno.info
 baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Labno Bart - IT services
+email: info@labno.info
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Bart Labno
   pic: 1
-  position: Lead Designer
+  position: CEO and IT Manager
   social:
     - title: twitter
       url: #
@@ -53,7 +53,7 @@ social:
   - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/bartlabno
 
 # Postal address (add as many lines as necessary)
 address:
