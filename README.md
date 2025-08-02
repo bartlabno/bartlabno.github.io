@@ -1,2 +1,0 @@
-# bartlabno.github.io
-Portfolio
